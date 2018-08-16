@@ -3,7 +3,7 @@ var firName = [];
 var lasName = [];
 //Ask user for a first name, and store it in the first names array.
 var firstName = prompt("enter your first name");
-firName.push(firstName);
+firName.push(firstName);//push to the end
 //Ask user for a last name, and store it in the last names array.
 var lastName = prompt("enter your last name");
 lasName.push(lastName);
